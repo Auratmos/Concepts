@@ -12,3 +12,6 @@ A fork of [Atom](https://github.com/atom/atom). Designed to be a community-drive
 A minimalistic system fetch tool. (The name is a reference to [neofetch](https://github.com/dylanaraps/neofetch) and [Undertale](https://undertale.com)'s Mettaton EX/NEO battle.)
 - [ ] ohmyfetch\
 Another system fetch tool. Designed to be a do-it-yourself fetch tool, customizable to a user's desires.
+
+## Legal (kinda...not really)
+If you are creating one or more of these concepts from ideation of this list, please be sure to credit me for the idea. Although, I know I have no control over credit given, I highly appreciate credit for the concepts I come up with.

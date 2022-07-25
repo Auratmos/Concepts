@@ -6,8 +6,6 @@ I do not intend for Creative Commons Zero v1.0 Universal to be the license for a
 
 ## List of Concepts
 A checkmark represents a concept I am planning or working on.
-- [ ] Molecule\
-A fork of [Atom](https://github.com/atom/atom). Designed to be a community-driven revival/continuation after the project is sunset.
 - [ ] exfetch\
 A minimalistic system fetch tool. (The name is a reference to [neofetch](https://github.com/dylanaraps/neofetch) and [Undertale](https://undertale.com)'s Mettaton EX/NEO battle.)
 - [ ] ohmyfetch\
